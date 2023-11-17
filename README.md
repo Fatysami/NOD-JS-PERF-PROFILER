@@ -22,9 +22,9 @@ This module provides a real-time overview of your application's performance. It 
 Clone the repository of a Test project for the middleware and install the necessary dependencies.
 
 ```   bash ``` 
-git clone https://github.com/Fatysami/NodePulseProfiler.git
-cd your-project-name
-npm install perfo-profiler
+- git clone https://github.com/Fatysami/NodePulseProfiler.git
+- cd your-project-name
+- npm install perfo-profiler
 
 ## Usage
 
@@ -52,3 +52,5 @@ app.listen(3000, () => {
 
 ## Contact
 Fatima ezzahraa SAMI - fatimaezzahraa1983@gmail.com
+
+

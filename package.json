@@ -1,6 +1,6 @@
 {
   "name": "perfo-profiler",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "NodeResponseProfiler est un middleware efficace et léger pour Node.js, conçu pour profiler et analyser les performances des requêtes HTTP. Il offre un suivi en temps réel des temps de réponse, catégorise les performances des requêtes (rapide, moyen, lent), et fournit des logs intelligents avec rotation quotidienne. Idéal pour les développeurs souhaitant optimiser et surveiller les performances de leurs applications Node.js.",
   "main": "performanceProfiler.js",
   "scripts": {
